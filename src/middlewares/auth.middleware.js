@@ -1,6 +1,0 @@
-function signInValidation(){
-
-}
-function signUpValidation(){
-
-}
